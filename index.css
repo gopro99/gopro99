@@ -1,0 +1,87 @@
+* {
+    box-sizing: border-box;
+    font-family: Helvetica;
+    margin: 0;
+}
+
+
+.banner h1 {
+    
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    position: relative;
+    bottom: 95px;
+}
+
+.banner img {
+    max-height: 150px;
+    width: 100%;
+    position: relative;
+    top: 50px;
+    
+}
+
+h3 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+figcaption {
+    font-weight: bold;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.brushes {
+    background-color: mediumspringgreen;
+    margin: 50px 0px;
+    
+}
+
+.frames {
+    background-color: lightcoral;
+    margin: 50px 0px;
+}
+
+.paint {
+    background-color:skyblue;
+    margin: 50px 0px;
+}
+
+.brushes, figure {
+    margin-left: 20px;
+}
+
+.frames, figure {
+    margin-left: 20px;
+}
+
+.paint, figure {
+    margin-left: 20px;
+}
+
+p {
+    margin-top: 20px;
+    margin-left: 20px;
+    
+}
+
+#brushes-price {
+    font-weight: bold;
+    color: blue;    
+}
+
+#frames-price {
+    font-weight: bold;
+    color: blue;    
+}
+
+#paint-price {
+    font-weight: bold;
+    color: blue;    
+}
+
+
